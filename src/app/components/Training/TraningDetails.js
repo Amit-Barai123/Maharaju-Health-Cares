@@ -4,7 +4,7 @@ export default function TrainingDetails() {
         {/* Left Side - Image */}
         <div className="md:w-1/2 w-full h-full flex items-center justify-center slide-left">
           <img
-            src="/images/intern.jpg" // Replace with your image path
+            src="/images/intern.JPG" // Replace with your image path
             alt="Team Meeting"
             className="object-cover  h-auto"
           />
