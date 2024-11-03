@@ -23,7 +23,7 @@ export default function Slides() {
     {
       fixedText: "Our solutions for your business growth.",
       movingText: "INTERNSHIP",
-      images: "./images/meeting.jpg"
+      images: "./images/meeting.JPG"
     },
   ];
 
