@@ -2,11 +2,11 @@
 import { useState } from 'react';
 
 const tabs = [
-  { id: 1, image:'./images/tab-1.jpg', label: 'Business Analysis', icon: 'bi-diagram-3', content: 'Supporting our clients with suitable IT Services requires a blend of different skills and expertise. With ilander Technologies Private Limited, you can access our entire team of experts at any time.' },
-  { id: 2, image:'./images/tab-2.jpg', label: 'Business Consulting', icon: 'bi-people', content: 'Our consulting services provide solutions to enhance your business growth, helping you adapt to changes and improve productivity.' },
-  { id: 3, image:'./images/tab-3.jpg', label: 'Cost-Effective', icon: 'bi-currency-dollar', content: 'We offer cost-effective solutions tailored to meet your specific requirements, ensuring you get value for your investment.' },
-  { id: 4, image:'./images/tab-4.jpg', label: 'Experienced & Skilled', icon: 'bi-globe', content: 'Our team comprises experienced and skilled professionals dedicated to delivering top-notch services and solutions.' },
-  { id: 5, image:'./images/tab-5.jpg', label: 'Quality Work', icon: 'bi-pen', content: 'Quality is our priority. We ensure that every project is completed with the highest standards of excellence and attention to detail.' },
+  { id: 1, image:'./images/tab-1.JPG', label: 'Business Analysis', icon: 'bi-diagram-3', content: 'Supporting our clients with suitable IT Services requires a blend of different skills and expertise. With ilander Technologies Private Limited, you can access our entire team of experts at any time.' },
+  { id: 2, image:'./images/tab-2.JPG', label: 'Business Consulting', icon: 'bi-people', content: 'Our consulting services provide solutions to enhance your business growth, helping you adapt to changes and improve productivity.' },
+  { id: 3, image:'./images/tab-3.JPG', label: 'Cost-Effective', icon: 'bi-currency-dollar', content: 'We offer cost-effective solutions tailored to meet your specific requirements, ensuring you get value for your investment.' },
+  { id: 4, image:'./images/tab-4.JPG', label: 'Experienced & Skilled', icon: 'bi-globe', content: 'Our team comprises experienced and skilled professionals dedicated to delivering top-notch services and solutions.' },
+  { id: 5, image:'./images/tab-5.JPG', label: 'Quality Work', icon: 'bi-pen', content: 'Quality is our priority. We ensure that every project is completed with the highest standards of excellence and attention to detail.' },
 ];
 
 export default function Services() {
