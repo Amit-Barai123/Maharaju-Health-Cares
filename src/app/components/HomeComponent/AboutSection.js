@@ -23,7 +23,7 @@ export default function AboutSection() {
       {/* Left Side - Image */}
       <div className="md:w-1/2 w-full h-full flex items-center justify-center">
         <img
-          src="/images/meeting.jpg" // Replace with your image path
+          src="/images/meeting.JPG" // Replace with your image path
           alt="Team Meeting"
           className="object-cover w-full h-full"
         />
